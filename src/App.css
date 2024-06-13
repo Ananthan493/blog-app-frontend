@@ -24,6 +24,13 @@
   color: white;
 }
 
+.container1 {
+  background: transparent;
+  position: absolute;
+  top: 40%; left: 70%;
+  text-align: left;
+}
+
 .App-link {
   color: #61dafb;
 }
