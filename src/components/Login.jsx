@@ -20,7 +20,7 @@ const Login = () => {
                         alert("Successfully Signed in")
                     }
                     else {
-                        alert("Error")
+                        alert("incorrect password")
                     }
                 }
     
